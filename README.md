@@ -1,7 +1,9 @@
 ### (^-^*)/
 
+Currently working on [Identities](https://github.com/k8ieone/identities) - a [password store](https://passwordstore.org/) client for [GNOME](https://gnome.org/)
+
 <!--
-**satcom886/satcom886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**k8ieone/k8ieone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
