@@ -1,8 +1,6 @@
 ### `(^-^*)/`
 
-Currently working on [Identities](https://github.com/k8ieone/identities) ⚒️
-
-Next stop: [Quorra](https://github.com/Quorra-Auth) 😎
+Check out what I'm currently working 🛠️ on at [my site's now page](https://k8ie.one/now)
 
 <!--
 **k8ieone/k8ieone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
